@@ -8,6 +8,9 @@ I am a Frontend Developer based in Bangladesh. I love to work with Frontend and 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+
 💬 You can Ask me about Frontend Development or any Front-Tech-related stuff.
+
+<!---
+
 --->
