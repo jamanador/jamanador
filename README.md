@@ -9,6 +9,5 @@ I am a Frontend Developer based in Bangladesh. I love to work with Frontend and 
 - 📫 How to reach me ...
 
 <!---
-adorzamaan/adorzamaan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+💬 You can Ask me about Frontend Development or any Front-Tech-related stuff.
 --->
