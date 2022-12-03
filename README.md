@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="300px!important"></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ador;frontend+Engineer+React+developer...;Tech+Enthusiast...;Active+Open+Source+Contributor..."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Ador;frontend+Engineer;React+developer...;Tech+Enthusiast...;Active+Open+Source+Contributor..."/>
 
 
-<p align="center" width="150px" style="font-family:Montserrat"> 
+<p align="center" width="150px" style="font-family:'Montserrat'"> 
 I'm a student Department of Computer Science at CPI. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, sharing ideas, and spreading knowledge and positivity.
 </p>
 
