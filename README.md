@@ -1,10 +1,10 @@
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png"></p>
-<p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Jamaan Ador </h1>
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Jamaan;Frontend+engineer+React Developer...;Tech+Enthusiast...;Active+Open+Source+Contributor..."/>
+
 
 <p align="center" width="150px"> 
-I am a Frontend Developer based in Bangladesh.I spend most of the time with coding. I always try to learn new things everyday and try to implement it own way. JavaScirpt is one of favourite technology, I feel comfortable to work with JS.🧑‍💻.
+I'm a student Department of Computer Science at CPI. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, sharing ideas, and spreading knowledge and positivity.
 </p>
 
 <p align="center"><b>Visitor's Count</b></p>
@@ -32,7 +32,7 @@ I am a Frontend Developer based in Bangladesh.I spend most of the time with codi
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="[https://linkedin.com/in/KevinPatel04](https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="[https://instagram.com/kevinpatel.me](https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
