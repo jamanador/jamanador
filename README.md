@@ -32,7 +32,7 @@ I am a Frontend Developer based in Bangladesh.I spend most of the time with codi
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="[https://linkedin.com/in/KevinPatel04](https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-Kevin%20Patel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="[https://instagram.com/kevinpatel.me](https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-kevinpatel.me-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-patelkvin04-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="[https://linkedin.com/in/KevinPatel04](https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="[https://instagram.com/kevinpatel.me](https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
