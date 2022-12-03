@@ -10,7 +10,7 @@ I'm a student Department of Computer Science at CPI. I like to Code, Design, Inn
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/-tailwindcss-2338B2AC?style=flat&logo=taiwlwindcss&logoColor=563D7C)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-05122A?style=flat&logo=taiwlwindcss&logoColor=38BDF8)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![REACT](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
@@ -21,7 +21,7 @@ I'm a student Department of Computer Science at CPI. I like to Code, Design, Inn
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%05122A.svg?style=flat&logo=Figma)
+![Figma](https://img.shields.io/badge/figma-%05122A.svg?style=flat&logo=Figma&logoColor=FFA714)
 
 
 ### :link: &nbsp;Connect with me
