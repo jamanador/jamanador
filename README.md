@@ -21,7 +21,7 @@ I'm a student Department of Computer Science at CPI. I like to Code, Design, Inn
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%05122A.svg?style=flat&logo=Figma&logoColor=FFA714)
+![Figma](https://img.shields.io/badge/-figma-05122A?style=flat&logo=Figma&logoColor=0AC97F)
 
 
 ### :link: &nbsp;Connect with me
@@ -29,5 +29,5 @@ I'm a student Department of Computer Science at CPI. I like to Code, Design, Inn
 <p align="center">
 <a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-1DA1F2?style=for-the-badge&logo=twitter&logoColor=0AC97F"/></a>
 </p>
