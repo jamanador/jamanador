@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=Hey!+its+Ador;frontend+Engineer;React+developer.;Tech+Enthusiast.;Active+Open+Source+Contributor."/>
 
-<p align="center" width="150px" style="font-family:'Montserrat';font-size:12px;"> 
+<p align="left" width="150px" style="font-family:'Montserrat';font-size:12px;"> 
 I'm a student Department of Computer Science at CPI. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, sharing ideas, and spreading knowledge and positivity.
 </p>
 
@@ -27,7 +27,7 @@ I'm a student Department of Computer Science at CPI. I like to Code, Design, Inn
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-1DA1F2?style=for-the-badge&logo=twitter&logoColor=0AC97F"/></a>
+<a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-05122A?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-05122A?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-05122A?style=for-the-badge&logo=twitter&logoColor=0AC97F"/></a>
 </p>
