@@ -6,11 +6,11 @@
 I'm a student Department of Computer Science at CPI. I like to Code, Design, Innovate and Experiment. I am an enthusiastic and social person who loves to take up new challenges and learn new skills. I love meeting new people, sharing ideas, and spreading knowledge and positivity.
 </p>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech & Tools Preference
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=Tailwind Css)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/-tailwindcss-2338B2AC?style=flat&logo=taiwlwindcss&logoColor=563D7C)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![REACT](https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=react)&nbsp;
