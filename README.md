@@ -27,7 +27,7 @@ I'm a student Department of Computer Science at CPI. I like to Code, Design, Inn
 ### :link: &nbsp;Connect with me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamaanador-05122A?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamaanador-05122A?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamaanador-05122A?style=for-the-badge&logo=twitter&logoColor=0AC97F"/></a>
+<a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/)"><img src="https://img.shields.io/badge/-jamanador-05122A?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/_atifadii_"><img src="https://img.shields.io/badge/-jamanador-05122A?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/adorzamaan"><img src="https://img.shields.io/badge/-jamanador-05122A?style=for-the-badge&logo=twitter&logoColor=0AC97F"/></a>
 </p>
