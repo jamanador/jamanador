@@ -20,7 +20,6 @@ I'm a passionate **Frontend Engineer** and **React Developer** with a strong int
 - 💡 Build scalable & high-performance **React applications**
 - 🎨 Create responsive & visually appealing **UI/UX designs**
 - 💻 Develop **modern, fast, and accessible** web applications
-- 🌍 Actively contribute to **open-source projects**
 
 ---
 
@@ -28,30 +27,6 @@ I'm a passionate **Frontend Engineer** and **React Developer** with a strong int
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,json,git,github,vscode,sublime,firebase,figma" />
-</p>
-
----
-
-## 🔥 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jamador&show_icons=true&theme=radical" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jamador&theme=radical" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamador&layout=compact&theme=radical" alt="Top Languages">
-</p>
-
-### 🏆 Achievements
-
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Rating-A%2B-brightgreen?style=for-the-badge&logo=github" alt="GitHub A+ Rating">
-  <img src="https://img.shields.io/badge/Commit%20Streak-365%2B-red?style=for-the-badge&logo=git" alt="Commit Streak">
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-50%2B-blue?style=for-the-badge&logo=opensourceinitiative" alt="Open Source Contributions">
 </p>
 
 ---
