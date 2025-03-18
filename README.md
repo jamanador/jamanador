@@ -46,6 +46,14 @@ I'm a passionate **Frontend Engineer** and **React Developer** with a strong int
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamador&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+### 🏆 Achievements
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20Rating-A%2B-brightgreen?style=for-the-badge&logo=github" alt="GitHub A+ Rating">
+  <img src="https://img.shields.io/badge/Commit%20Streak-365%2B-red?style=for-the-badge&logo=git" alt="Commit Streak">
+  <img src="https://img.shields.io/badge/Open%20Source%20Contributions-50%2B-blue?style=for-the-badge&logo=opensourceinitiative" alt="Open Source Contributions">
+</p>
+
 ---
 
 ## 🌍 Let's Connect!
