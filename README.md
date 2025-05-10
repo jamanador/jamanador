@@ -34,13 +34,13 @@ I'm a passionate **Frontend Engineer** and **React Developer** with a strong int
 ## 🌍 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jamaan-ador-880b6b211/" target="_blank">
+  <a href="https://www.linkedin.com/in/jamanador/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_atifadii_/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/adorzamaan" target="_blank">
+  <a href="https://x.com/jaman_ador" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-05122A?style=for-the-badge&logo=twitter&logoColor=0AC97F"/>
   </a>
 </p>
