@@ -1,48 +1,83 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="200px!important">
+  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="200px" alt="banner">
 </p>
 
-<h1 align="center">Hi there, I'm Jaman Ador! 👋</h1>
+<h1 align="center">Hi, I'm Jaman Ador 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=true&vCenter=true&lines=Frontend+Engineer;React+Developer;Tech+Enthusiast;Open+Source+Contributor"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
-</p>
-
-## 👨‍💻 About Me
-
-I'm a passionate **Frontend Engineer** and **React Developer** with a strong interest in designing, coding, and building innovative web applications. Currently, I'm pursuing my **BSc degree in Software Engineering at East Delta University**, constantly learning and expanding my skills. I thrive on challenges, enjoy collaborating with like-minded individuals, and love bringing ideas to life through technology.
-
-### 🚀 What I Do:
-- 💡 Build scalable & high-performance **React applications**
-- 🎨 Create responsive & visually appealing **UI/UX designs**
-- 💻 Develop **modern, fast, and accessible** web applications
-
----
-
-## 🚀 Tech & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,nodejs,json,git,github,vscode,sublime,firebase,figma" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Your+Frontend+Partner;React+%7C+TypeScript+Developer;Pixel-Perfect+UI+Craftsman;Product-Focused+Engineer;Let's+Build+Something+Great!" />
 </p>
 
 ---
 
-## 🌍 Let's Connect!
+## 💬 About Me
+
+**Your Frontend Partner — Building With a Founder’s Mindset**
+
+If you're looking for someone who just writes code, I'm not your guy.  
+But if you want a strategic partner who thinks like a co-founder — someone who cares about your users, your product vision, and long-term growth — let's connect.
+
+- ✅ Trusted by startup founders & product teams  
+- ⚡ Completed 100+ projects on Upwork & Fiverr  
+- 🚀 Currently leading 2 high-value builds for scaling tech startups  
+
+I'm a self-taught full-stack developer fueled by **curiosity**, **creativity**, and a deep love for clean, user-centered design.
+
+Whether it’s a landing page or full-stack app, I deliver **clean code**, **thoughtful UX**, and a mindset geared toward long-term success.
+
+---
+
+## ⚙️ Tech I Work With
+
+### 💻 Frontend
+React.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
+
+### 🧠 Backend
+Node.js • Express.js • MongoDB • Firebase
+
+### ✨ UI/UX & Animation
+Figma • Framer Motion • Email Design
+
+### 🛠️ Tools & Workflow
+Git • VS Code • Vite • GitHub • Netlify
+
+### 📋 Project Management
+Notion • Trello • Asana
+
+### 🌐 Remote Ready
+Reliable async setup with timezone flexibility, clear communication & focus
+
+---
+
+## 📌 Portfolio & Projects
+
+Want to see what I’ve built?
+
+🌐 [Visit My Portfolio →](https://jamanador.web.app/)
+
+---
+
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jamanador/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-05122A?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/_atifadii_/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-05122A?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://x.com/jaman_ador" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-05122A?style=for-the-badge&logo=twitter&logoColor=0AC97F"/>
+    <img src="https://img.shields.io/badge/-X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="mailto:hellojamanador@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://jamanador.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
 
-✨ **Let's build something amazing together!** 🚀
+---
+
+<p align="center">
+  <strong>“Build with clarity. Code with care. Collaborate with purpose.”</strong>  
+  <br/>
+  💡 Let's bring your product vision to life!
+</p>
