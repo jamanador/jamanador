@@ -27,25 +27,16 @@ Whether it’s a landing page or full-stack app, I deliver **clean code**, **tho
 
 ---
 
-## ⚙️ Tech I Work With
+## 🧩 The Stack Behind My Craft: Tools That Power Every Pixel
 
-### 💻 Frontend
-React.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS
-
-### 🧠 Backend
-Node.js • Express.js • MongoDB • Firebase
-
-### ✨ UI/UX & Animation
-Figma • Framer Motion • Email Design
-
-### 🛠️ Tools & Workflow
-Git • VS Code • Vite • GitHub • Netlify
-
-### 📋 Project Management
-Notion • Trello • Asana
-
-### 🌐 Remote Ready
-Reliable async setup with timezone flexibility, clear communication & focus
+| **Category**           | **Tools & Tech**                                                                 |
+|------------------------|----------------------------------------------------------------------------------|
+| 💻 **Frontend**         | React.js • JavaScript • TypeScript • HTML • CSS • Tailwind CSS                  |
+| 🧠 **Backend**          | Node.js • Express.js • MongoDB • Firebase                                       |
+| ✨ **UI/UX & Animation** | Figma • Framer Motion • Email Design                                            |
+| 🛠️ **Tools & Workflow** | Git • VS Code • Vite • GitHub • Netlify                                         |
+| 📋 **Project Management**| Notion • Trello • Asana                                                         |
+| 🌐 **Remote Ready**      | Async setup • Timezone flexibility • Clear communication • High productivity   |
 
 ---
 
