@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="200px" alt="banner">
+  <img src="https://i.ibb.co/cchkkDFP/Jaman-Ador-frontend-engineer.png" height="200px" alt="portfolio mockup">
 </p>
 
 <h1 align="center">Hi, I'm Jaman Ador 👋</h1>
