@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://i.ibb.co/cchkkDFP/Jaman-Ador-frontend-engineer.png" alt="Portfolio Mockup" style="max-width: 100%; height: auto;"></p>
+  <a href="https://jamanador.web.app/" target="_blank"> <img src="https://i.ibb.co/cchkkDFP/Jaman-Ador-frontend-engineer.png" alt="Portfolio Mockup" style="max-width: 100%; height="400px";"></p> </a>
 <h1 align="center">Hi, I'm Jaman Ador 👋</h1>
 
 <p align="center">
