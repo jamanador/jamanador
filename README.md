@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jamanador.web.app/" target="_blank"> <img src="https://i.ibb.co/cchkkDFP/Jaman-Ador-frontend-engineer.png" alt="Portfolio Mockup" style="max-width: 100%; height="200px";"></p> </a>
+  <a href="https://jamanador.web.app/" target="_blank">   <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/cover-thompson.png" height="200px" alt="banner"> </a></p>
 <h1 align="center">Hi, I'm Jaman Ador 👋</h1>
 
 <p align="center">
